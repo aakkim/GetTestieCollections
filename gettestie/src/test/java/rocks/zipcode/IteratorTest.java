@@ -10,11 +10,6 @@ public class IteratorTest {
     /*
     Iterator: interface that is practiced in order to iterate over a collection of objects.
 
-    PriorityQueue: a class that provides processing of objects on the basis or priority.
-    are unbounded queues, does NOT allow null value, can't create a priority queue of objects that are non-comparable.
-    priority queue elements may not be sorted, but elements are retrieved in SORTED order (natural/ascending order)
-    head of the queue will be the smallest element
-
      */
 
     @org.junit.Test
